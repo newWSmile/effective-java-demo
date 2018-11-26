@@ -8,9 +8,7 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.smile.effectivejavademo.chapter2;
-
-import javafx.util.Builder;
+package com.smile.effectivejavademo.chapter2.tips01;
 
 import java.util.Calendar;
 import java.util.Date;

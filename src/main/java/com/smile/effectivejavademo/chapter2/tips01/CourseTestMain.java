@@ -8,7 +8,7 @@
  * <author>          <time>          <version>          <desc>
  * 作者姓名           修改时间           版本号              描述
  */
-package com.smile.effectivejavademo.chapter2;
+package com.smile.effectivejavademo.chapter2.tips01;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
